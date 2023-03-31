@@ -17,9 +17,9 @@
     "require": {
         "acquia/blt": "^13.0",
         "composer/installers": "^2.0",
-        "drupal/core-composer-scaffold": "^10.0",
-        "drupal/core-project-message": "^10.0",
-        "drupal/core-recommended": "^10.0",
+        "drupal/core-composer-scaffold": "^9.0",
+        "drupal/core-project-message": "^9.0",
+        "drupal/core-recommended": "^9.0",
         "drush/drush": "^11.5"
     },
     "conflict": {
